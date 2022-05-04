@@ -1,0 +1,29 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sticky{
+    position: sticky;
+    top: 0;
+    padding: 5px;
+    background-color: gray;
+    border: 2px solid black;
+}
+body{
+    background:url(https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png);
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.timeline{
+    margin:auto;
+    margin-top: 70px;
+    width:600px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 30px;
+}
+
+footer{
+    display:block;
+    height: 50px;
+    border: groove 10px aqua;
+}
